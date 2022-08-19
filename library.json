@@ -1,0 +1,21 @@
+{
+  "name": "GPxMatrix",
+  "version": "1.0.1",
+  "keywords": "ESP32, p3, p4, matrix, rgb",
+  "description": "An Arduino library for 32x16, 32x32, 64x32, 128x32, 64x64, 128x64 RGB matrix modules.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/3tawi/GPxMatrix"
+  },
+  "authors":
+  [
+    {
+        "name": "3tawi",
+        "youtube": "https://www.youtube.com/c/GreatProjects",
+        "maintainer": true
+    }
+  ],
+  "frameworks": "Arduino",
+  "platforms": "esp32"
+}

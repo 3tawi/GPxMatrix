@@ -97,8 +97,8 @@ void GPxMatrix::init(uint8_t rows, uint8_t a, uint8_t b, uint8_t c,
                           uint8_t clk, uint8_t lat, uint8_t oe, boolean dbuf,
                           uint8_t width, uint8_t *pinlist
 ) {
-  // R1, G1, B1, R2, G2, B2 pins{25, 26, 27, 12, 13, 14}
-  static const uint8_t defaultrgbpins[] = {13, 35, 12, 14, 15, 27};
+  // R1, G1, B1, R2, G2, B2 
+  static const uint8_t defaultrgbpins[] = {27, 26, 14, 12, 25, 15};
   memcpy(rgbpins, pinlist ? pinlist : defaultrgbpins, sizeof rgbpins);
 
   nRows = rows; // Number of multiplexed rows; actual height is 2X this

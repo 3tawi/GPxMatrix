@@ -7,5 +7,5 @@ Written by Limor Fried/Ladyada & Phil Burgess/PaintYourDragon for Adafruit Indus
 BSD license, all text above must be included in any redistribution
 
 Adapted by 3tawi for 32x16, 32x32, 64x32, 128x32, 64x64, 128x64 RGB LED matrix panels
-- Shema: https://youtu.be/Hndon1lIXL0
-- Lien vidéo: https://youtu.be/Hndon1lIXL
+- Shema & Gerber File: https://youtu.be/l33WRd2h6gM
+- P3 Matrix RGB 128X64 And Esp32: https://youtu.be/Hndon1lIXL

@@ -189,6 +189,7 @@ void SttingSpeed() {
     sp3 = 8000;
     Ci = 0;
     Modeclock = false;
+    Message = "Great Projects wish you a very nice day. Hope you have a great time ahead.";
   }
 }
 void readsource(String source) {

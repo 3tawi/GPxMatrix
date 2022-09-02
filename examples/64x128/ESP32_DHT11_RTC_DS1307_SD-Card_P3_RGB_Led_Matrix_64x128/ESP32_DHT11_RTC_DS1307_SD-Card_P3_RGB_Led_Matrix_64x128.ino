@@ -3,7 +3,7 @@
 // - Diagram: https://youtu.be/l33WRd2h6gM
 // - GPxMatrix Library: https://github.com/3tawi/GPxMatrix
 // - Adafruit_GFX Library: https://github.com/adafruit/Adafruit-GFX-Library
-// - DS1307ESP Library: https://github.com/3tawi/DS1307ESP
+// - DS1307ESP Library: https://github.com/3tawi/DS1307ESPTime
 // - DHT Sensor Library: https://github.com/3tawi/esp32DHT
 // - Getting Started ESP32 / ESP32S : https://www.youtube.com/watch?v=9b0Txt-yF7E
 // Find All "Great Projects" Videos : https://www.youtube.com/c/GreatProjects

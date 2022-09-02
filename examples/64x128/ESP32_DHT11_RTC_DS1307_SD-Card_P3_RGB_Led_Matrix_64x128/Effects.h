@@ -1,17 +1,4 @@
 
-/*
- * Aurora: https://github.com/pixelmatix/aurora
- * Copyright (c) 2014 Jason Coon
- *
- *
- * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
- * FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
- * COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
- * IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- * CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
- */
-
 #ifndef Effects_H
 #define Effects_H
 
@@ -25,8 +12,6 @@ String fhumi[4] = {"Humidity : ", "Humidité : ", "Feuchtigkeit : ", "Humedad : 
 const char* Apssid = "Esp32-P3";
 const char* Appassword = "GPxMatrix";
 
-  void Setup() {
-    }
 
 
 

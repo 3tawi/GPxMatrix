@@ -23,20 +23,6 @@ function DisplayCurrentTime() {
   document.getElementById("datetime").innerHTML = (dow + " " + da + " " + ti);
         setTimeout('DisplayCurrentTime()', 1000);
 }
-function myFunctionMra() {
-  var strLine = "modera";
-  var request = new XMLHttpRequest();
-  request.open("GET", strLine, false);
-  request.send(null);
-  GetArduinodata1();
-}
-function myFunctionMA() {
-  var strLine = "modema";
-  var request = new XMLHttpRequest();
-  request.open("GET", strLine, false);
-  request.send(null);
-  GetArduinodata1();
-}
 function myFunctionMg() {
   var n = document.getElementById("mymesg");
   var request = new XMLHttpRequest();

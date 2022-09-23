@@ -8,5 +8,6 @@ BSD license, all text above must be included in any redistribution
 
 Adapted by 3tawi for 32x16, 32x32, 64x32, 128x32, 64x64, 128x64 RGB LED matrix panels
 - Shema & Gerber File: https://youtu.be/l33WRd2h6gM
+- P3 Matrix 128x64 Esp32 DHT22 RTC DS1307 SD CARD UTFT Fonts: https://youtu.be/EvmB_jVc5IA
 - Esp32 P3 Matrix 64x128 DHT22 DHT11 RTC SD CARD: https://youtu.be/fFUG7dE3uSk
 - P3 Matrix RGB 128X64 And Esp32: https://youtu.be/5oQiWvU77eA

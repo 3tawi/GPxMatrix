@@ -30,11 +30,9 @@ WebServer server(80);
 #define MATRIX_HEIGHT 64
 #define MATRIX_WIDTH 128
 int sp0, sp1, sp2, sp3, sp4;
-bool enableAudioPatterns = true; 
 bool wifiok = false;
 bool wifiapok = false;
 bool ModeAuto = true;
-bool modeS = true;
 int Ci;
 String textip;
 long lastTime, prevTime, prevTim; 

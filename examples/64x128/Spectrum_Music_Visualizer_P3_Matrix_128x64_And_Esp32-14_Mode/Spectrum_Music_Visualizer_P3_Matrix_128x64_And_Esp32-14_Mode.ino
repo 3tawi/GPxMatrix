@@ -12,18 +12,16 @@
 #include "SPIFFS.h"
 #include "page.h"
 
-#define A    15
-#define B    16
-#define C    17
-#define D    4
-#define E    21
-#define CLK  0 
-#define LAT  32 
-#define OE   33
+#define P_A    32
+#define P_B    17
+#define P_C    33
+#define P_D    16
+#define P_E    5
+#define P_CLK  0 
+#define P_LAT  2 
+#define P_OE   4
 
-
-uint8_t listrgbpins[6] = {25, 26, 27, 12, 13, 14};
-GPxMatrix matrix(A, B, C, D, E, CLK, LAT, OE, true, 128, listrgbpins);
+GPxMatrix matrix(P_A, P_B, P_C, P_D, P_E, P_CLK, P_LAT, P_OE, true, 128);
 
 WebServer server(80);
 

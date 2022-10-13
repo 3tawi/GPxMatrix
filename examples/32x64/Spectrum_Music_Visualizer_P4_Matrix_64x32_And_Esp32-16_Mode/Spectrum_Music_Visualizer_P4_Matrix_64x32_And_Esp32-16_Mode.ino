@@ -1,6 +1,6 @@
 /* 
 // - REQUIRES the following Arduino libraries:
-// - Lien vidéo: https://youtu.be/Haiq1Ytl-lY
+// - Lien vidéo: https://youtu.be/xLhVtejPgS0
 // - Diagram: https://youtu.be/l33WRd2h6gM
 // - GPxMatrix Library: https://github.com/3tawi/GPxMatrix
 // - Adafruit_GFX Library: https://github.com/adafruit/Adafruit-GFX-Library

@@ -368,10 +368,10 @@ void readSttspeed() {
     readsource(text);
   } else {
     sp0 = 30;
-    sp1 = 200;
-    sp2 = 100;
+    sp1 = 100;
+    sp2 = 2;
     sp3 = 8000;
-    sp4 = 1023;
+    sp4 = 750;
     Ci = 0;
     ModeAuto = true;
   }

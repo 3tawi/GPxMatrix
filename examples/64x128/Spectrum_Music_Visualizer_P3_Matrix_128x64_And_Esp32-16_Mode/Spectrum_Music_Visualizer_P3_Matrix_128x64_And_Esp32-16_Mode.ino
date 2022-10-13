@@ -21,11 +21,7 @@
 #define P_LAT  2 
 #define P_OE   4
 
-//                          R1, G1, B1, R2, G2, B2  (RGB Pins)
-//uint8_t listrgbpins[6] = {27, 26, 14, 12, 25, 15};
-//GPxMatrix *matrix = new GPxMatrix(P_A, P_B, P_C, P_D, P_E, P_CLK, P_LAT, P_OE, true, 128, listrgbpins); 
-
-GPxMatrix *matrix = new GPxMatrix(P_A, P_B, P_C, P_D, P_E, P_CLK, P_LAT, P_OE, true, 128);   // Enable double buffering
+GPxMatrix matrix(P_A, P_B, P_C, P_D, P_E, P_CLK, P_LAT, P_OE, true, 128);   // Enable double buffering
 
 WebServer server(80);
 

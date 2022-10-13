@@ -272,7 +272,7 @@ button:hover {
             <td style="width:40%">
                 <b class="Date"><span id="datetime"></span></b></td>
             <td style="width:22%">
-                <input type="number" name="Pattern" min="1" max="22" value="1" class="button-blue" style="width:20%" id="Modepat">
+                <input type="number" name="Pattern" min="1" max="14" value="1" class="button-blue" style="width:20%" id="Modepat">
                 <button class="button-blue" onclick="myFunctionPatt()" style="width:40%">Set Mode</button></td>
             <td style="width:18%">
                 <b class="button-blue" style="width:98%"><span id="cimesg"></span></b></td>
